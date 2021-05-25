@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{359AC42E-9FF4-44BF-A995-0249A7C92A9F}|Default">
+  <MonoDevelop.Ide.ItemProperties.CollectionViewApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.C62FD321-EB1A-47F6-88DB-1B2F26080D5C" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CollectionViewApp/View/MyHomePage.xaml">
+    <Files>
+      <File FileName="CollectionViewApp/View/MyHomePage.xaml.cs" Line="1" Column="1" />
+      <File FileName="CollectionViewApp/View/MyHomePage.xaml" Line="7" Column="85" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CollectionViewApp" expanded="True" selected="True">
+            <Node name="CollectionViewApp" expanded="True">
+              <Node name="View" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.CollectionViewApp.Android PreferredExecutionTarget="Android.phone_h-dpi_4in_r_11_0_-_api_30" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

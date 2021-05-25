@@ -4,7 +4,7 @@
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
     x:Class="CollectionViewApp.View.MyHomePage">
     <ContentPage.Content>
-        <CollectionView ItemsSource="{Binding  MyHomeModels}" SelectedItem="{Binding SelectedItem,Mode=TwoWay}"  SelectionChangedCommand="{Binding ItemSelectedCommand,Mode=TwoWay}">
+        <CollectionView ItemsSource="{Binding  MyHomeModels}" SelectionMode="Single"  SelectedItem="{Binding SelectedItem,Mode=TwoWay}"  SelectionChangedCommand="{Binding ItemSelectedCommand,Mode=TwoWay}">
             <CollectionView.ItemsLayout>
                 <GridItemsLayout Span="2" Orientation="Vertical" VerticalItemSpacing="10"></GridItemsLayout>
             </CollectionView.ItemsLayout>
